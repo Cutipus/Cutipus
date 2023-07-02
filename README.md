@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cutipus
+- 👀 I’m interested in Computer Science, Programming, Game Development, And anything computers!
+- 🌱 I’m currently learning 3D asset creation and whatever else I feel like.
+- 💞️ I’m looking to collaborate on 3D video games made in the Godot Engine and Networking related projects. 
+- 📫 My email is Cutipus@proton.me
